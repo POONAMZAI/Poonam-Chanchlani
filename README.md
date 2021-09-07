@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @POONAMZAI
-- 👀 I’m interested in everything that involves robots, skies, sirens and 
+- 👀 I’m interested in everything that involves robots, skies, sirens.
 - 🌱 I’m currently learning everything I can. 'C', to be precise.
 
 <!---
