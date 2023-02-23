@@ -14,7 +14,7 @@ img{
  }
 
 h3{
-   border: 2px solid rgb(212, 54, 94);
+   border: 2px solid black;
  }
 
 h3{
@@ -30,7 +30,7 @@ p2{
 <center>
 <h1 style="color:Blue;"><strong>BLESSINGS AND BEING GREATFUL-ISLAMIC ARCHITECTURE</strong></h1>
 
-<img src="https://tse3.mm.bing.net/th?id=OIP.p16Zmpxyz7cPXx1Fa7ZDbQHaFj&pid=Api&P=0&w=206&h=156" alt="Medina" width=189 height=189>
+<img src="https://tse3.mm.bing.net/th?id=OIP.p16Zmpxyz7cPXx1Fa7ZDbQHaFj&pid=Api&P=0&w=206&h=156" alt="Medina" width=189 height=189> 
 <img src="https://tse4.mm.bing.net/th?id=OIP.D_-lzizLIFd_JQUMJMftvQHaFv&pid=Api&P=0&w=221&h=172" alt="karbala" width=189 height=189>
 <img src="https://mymodernmet.com/wp/wp-content/uploads/2018/04/islamic-architecture-1.jpg" alt="Afghanistan" width=189 height=189>
 
